@@ -1,0 +1,5 @@
+[index.html](https://github.com/user-attachments/files/23639069/index.html)
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="refresh" content="0;url=https://aa213b25-526b-445b-9da5-49a7c9726698-00-h21jzt2pymxt.worf.replit.dev/" / >
